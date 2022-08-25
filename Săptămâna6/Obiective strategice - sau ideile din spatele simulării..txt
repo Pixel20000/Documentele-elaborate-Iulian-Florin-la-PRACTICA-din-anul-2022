@@ -1,0 +1,17 @@
+
+CONDENSAREA IDEILOR PRINCIPALE - obiective îndeplinite;
+
+1)Punem la punct sistemul de compilare prin CMakeList(Compiling & Testing)
+2)Generăm interfața grafică(GUI) și restul caractersiticilor vizuale(necesare unui run)
+3)Creare de fișiere Header(.hh) si Surse(.cc) + compilarea lor
+3)Definim main-ul(sim.cc) după care implementăm un volum global(standard box)_(construction)
+4)Implementăm lista care stochează natura interacțiilor fizice care sunt implicate în proces_(physics)
+5)Generăm particule și le definim trăsăturile_(action + generator + draw + cinematică);
+6)Construim acțiunea care implică generarea unor particule(tracks-uri);
+7)Definim materiale/substanțe compuse(Aerogel, SiO2, H2O) și adaugăm un Radiator(placă din Aerogel)
+8)Crearea și implementarea unui detector senzitiv de radiație gamma.
+9)Testing Simulation.
+10)Automatizăm procedura prin procesarea input-ului vizual din fișiere de tip .mac;
+11)Definim și implementăm un mod de stocare/procesare a datelor prin root - plotare de histograme;
+12)Implementing Generic Messenger + Parametrization of Detectors + Adding Material Definition Function;
+13)Creating User-Defined Stepping & Event Action(pentru calcularea dozei sau a depozitului de energie/run care este stocată în detector)
