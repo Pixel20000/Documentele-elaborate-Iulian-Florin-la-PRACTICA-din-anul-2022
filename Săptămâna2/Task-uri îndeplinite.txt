@@ -1,4 +1,4 @@
-Am reușit să reunesc anumite părți esențiale pentru a putea cerceta mecanismele care stau la baza producerii unor noi particule ca urmare a unor evenimente energice(la LHC).
+Am reușit să reunesc anumite părți esențiale pentru a putea cerceta mecanismele care stau la baza producerii unor noi particule (la LHC).
 M-am dedicat studiului de sinteză necesar pentru a trece în revistă caracteristicile particulelor elementare!
 Am instalat softul HYPATIA pe sistemul de operare LINUX - pe care l-am folosit ulterior.
 Mi-am format o imagine de ansmblu mult mai amănunțită asupra claselor de particule pe care le-am fixat și organizat.
