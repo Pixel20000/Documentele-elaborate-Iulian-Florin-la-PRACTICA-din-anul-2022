@@ -1,0 +1,14 @@
+
+ - Acest program este o variație ceva mai complexă a programului din săptămâna6 și rezumă un set de reușite remarcabile, printre care:
+
+1)Definirea geometriei complexe a detectorului HPGe.
+2)Definirea sursei de radiație gamma - un radioizotop specific.
+3)Implementarea fizicii din spatele fenomenelor de interacție între particule și materialele detectorului.
+4)Definirea sensibilității detectorului.
+5)Calculul dozei de radiație înmagazinată în detector(stratul de Ge activ).
+6)Plotarea unui spectru de radiații gamma pentru izotopul ales.
+7)Rularea simulării pentru un număr mare de evenimente și corectarea erorilor pe parcurs!
+
+ 
+ *Am reușit să utilizez acest tip de detector pentru a plota un spectru gamma de radiații - pe seama acestei distribuții am determinat identitatea izotopului radioactiv.
+ 
